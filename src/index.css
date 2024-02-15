@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+label{
+    color: hsl(243, 100%, 62%);
+    margin-bottom: 5px;
+}
+input{
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
